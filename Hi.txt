@@ -1,0 +1,4 @@
+Hello there.
+My name is Sunny Kumar. 
+This project has helped me to understand the analyze the data and manipulate it .
+In this project i learnt how to build a machine learning model using classifier and learned about different types of function.
